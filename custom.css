@@ -1,0 +1,103 @@
+/* === Testing Code ==- */
+.row [class^="col"] {
+background-color:#fbced1;
+border:1px solid #fe7880;
+
+}
+
+.center{
+  text-align:center;
+}
+/* === End === */
+
+body.login{
+  background-color: #298eea;
+  color:#fff;
+  box-sizing: border-box;
+
+    
+}
+
+.login .logo{
+    display: block;
+    height: 75px;
+    padding-top: 40px;
+    margin: 0 auto 30px; 
+}
+
+
+div {
+    margin: 5 auto; 
+    width: 400px;
+    border-radius: 3px;
+    background: white;
+
+  }
+  .col{
+    text-align: center;
+    font-weight: 300;
+    color: #565656;
+    margin: 0 auto 45px;
+    font-size: 35px;
+    line-height: 38px;
+    display: block;
+    
+  }
+
+  input{
+    background: #fcfcfc;
+    border: 2px solid #e7e7e7;
+    margin: 20px auto;
+    padding: 15px;
+    width: 80%;
+    display: block;
+    border-radius: 3px;
+    font-size: 18px;
+   
+    text-align: left;
+    height: auto;
+    
+
+  }
+
+  input[type='submit'] {
+ 
+    color: white;
+    background: #15CD72;
+    border: 0;
+    font-weight: 500;
+    font-size: 22px;
+    text-align: center;
+    cursor: pointer;
+    margin-bottom: 0;
+    height: auto;
+  
+      
+}
+body {
+    box-sizing: border-box;
+    font-family: "proxima-nova", helvetica;
+}
+
+p{
+  display: block;
+  color: white;
+  
+  text-align: center;
+  margin: 10px;
+  color: white;
+  padding-bottom: 30px;
+
+}
+p.head{
+    text-align: center;
+    color: #565656;
+    margin: 10px 45px;
+    font-size: 35px;
+    line-height: 100px;
+    font-weight: 10px;
+   
+}
+a{
+  color: #bbb;
+}
